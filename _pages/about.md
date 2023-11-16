@@ -20,6 +20,6 @@ I'm a PhD student at the University of Oxford, with the CDT in Autonomous
 Intelligent Machines and Systems [(AIMS)](https://aims.robots.ox.ac.uk/). I'm
 supervised by Alessandro Abate as part of [OxCAV](https://oxcav.web.ox.ac.uk/) in the Department of Computer Science.
 
-My research interested lie at the intersection of artifical intelligence and
+My research interests lie at the intersection of artifical intelligence and
 formal verification. In particular, I'm interested in how these two fields can
-combine to help us create safer and more trustworthy models.
+combine to help us build safer and more trustworthy models.
