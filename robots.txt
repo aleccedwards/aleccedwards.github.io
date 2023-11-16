@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aleccedwards.github.io/aleccedwards/sitemap.xml
+Sitemap: https://aleccedwards.github.io/sitemap.xml
