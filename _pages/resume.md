@@ -1,15 +1,12 @@
 ---
 layout: page
-title: More
+title: cv
+newtab: true
+permalink: /assets/pdf/CV.pdf
 nav: true
 nav_order: 4
-dropdown: true
 children: 
-    - title: Repositories
-      permalink: /repositories/
-    - title: Teaching
-      permalink: /teaching/
-    - title: CV
+    - title: cv
       newtab: true
       permalink: /assets/pdf/CV.pdf
 ---
