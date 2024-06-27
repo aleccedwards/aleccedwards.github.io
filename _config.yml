@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Alec
-# middle_name: C.
+middle_name: C.
 last_name: Edwards
 email: <first>.<last>@cs.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -73,7 +73,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: nIU1LXwAAAAJ&hl=en # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2112879828 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
