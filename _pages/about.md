@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Research Scientist at [Phaidra](https://www.phaidra.ai/), where I work building physics-informed data-driven models of mission-critical industrial systems to enable their control through reinforcement learning. Previously I was a Research Associate in AI and Verification at the Department of Computer Science at the University of Oxford, working with [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/) in the [OxCAV](https://oxcav.web.ox.ac.uk/) group. I completed a PhD within the CDT in Autonomous
+I'm a Research Scientist at [Phaidra](https://www.phaidra.ai/), where I create AI-driven models and control strategies to optimize industrial systems. Previously I was a Research Associate in AI and Verification at the Department of Computer Science at the University of Oxford, working with [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/) in the [OxCAV](https://oxcav.web.ox.ac.uk/) group. I completed a PhD within the CDT in Autonomous
 Intelligent Machines and Systems [(AIMS)](https://aims.robots.ox.ac.uk/),
 supervised by Alessandro Abate in the Department of Computer Science.
 
